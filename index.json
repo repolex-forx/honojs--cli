@@ -1,0 +1,11 @@
+{
+  "org": "honojs",
+  "repo": "cli",
+  "versions": [
+    {
+      "commit": "c1b6028d8ea9bacaa1f08eed9345fb4301e9215c",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:38:34.233721+00:00"
+    }
+  ]
+}
