@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/honojs/cli/commit/c1b6028d8ea9bacaa1f08eed9345fb4301e9215c",
       "git:hexsha": "c1b6028d8ea9bacaa1f08eed9345fb4301e9215c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/honojs/cli/commit/04ecd472db39ef153d6271e179dc3b0479379071",
